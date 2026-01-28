@@ -1,0 +1,3 @@
+2026-01-27 12:32:22.2238 Info Registered target NLog.Targets.FileTarget(Name=file)
+2026-01-27 12:32:22.2304 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-01-27 12:32:22.2873 Info Configuration initialized: TargetNames=file, ConfigItems=16, AutoReload=true, FilePath=D:\RKIT\Github\DotNet Core\Demo\InventoryMgt\InventoryMgt\bin\Debug\net7.0\nlog.config

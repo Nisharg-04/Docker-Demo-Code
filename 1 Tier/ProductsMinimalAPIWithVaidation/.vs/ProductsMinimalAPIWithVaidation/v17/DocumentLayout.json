@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|d:\\rkit\\github\\dotnet core\\demo\\productsminimalapiwithvaidation\\productsminimalapiwithvaidation\\mysqldump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|solutionrelative:productsminimalapiwithvaidation\\mysqldump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|d:\\rkit\\github\\dotnet core\\demo\\productsminimalapiwithvaidation\\productsminimalapiwithvaidation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|solutionrelative:productsminimalapiwithvaidation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|d:\\rkit\\github\\dotnet core\\demo\\productsminimalapiwithvaidation\\productsminimalapiwithvaidation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|solutionrelative:productsminimalapiwithvaidation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|d:\\rkit\\github\\dotnet core\\demo\\productsminimalapiwithvaidation\\productsminimalapiwithvaidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|solutionrelative:productsminimalapiwithvaidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|d:\\rkit\\github\\dotnet core\\demo\\productsminimalapiwithvaidation\\productsminimalapiwithvaidation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|solutionrelative:productsminimalapiwithvaidation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|d:\\rkit\\github\\dotnet core\\demo\\productsminimalapiwithvaidation\\productsminimalapiwithvaidation\\mysqldump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{88E5E4B5-9CA7-4C46-B201-B08830A35DB9}|ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation.csproj|solutionrelative:productsminimalapiwithvaidation\\mysqldump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mysqldump.sql ",
+              "DocumentMoniker": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\mysqldump.sql",
+              "RelativeDocumentMoniker": "ProductsMinimalAPIWithVaidation\\mysqldump.sql",
+              "ToolTip": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\mysqldump.sql",
+              "RelativeToolTip": "ProductsMinimalAPIWithVaidation\\mysqldump.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T09:29:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductsMinimalAPIWithVaidation\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductsMinimalAPIWithVaidation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T07:32:43.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductsMinimalAPIWithVaidation\\Dockerfile",
+              "ToolTip": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\Dockerfile*",
+              "RelativeToolTip": "ProductsMinimalAPIWithVaidation\\Dockerfile*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-26T07:24:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsMinimalAPIWithVaidation\\appsettings.json",
+              "ToolTip": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\appsettings.json",
+              "RelativeToolTip": "ProductsMinimalAPIWithVaidation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T07:23:46.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsMinimalAPIWithVaidation\\Program.cs",
+              "ToolTip": "D:\\RKIT\\Github\\DotNet Core\\Demo\\ProductsMinimalAPIWithVaidation\\ProductsMinimalAPIWithVaidation\\Program.cs",
+              "RelativeToolTip": "ProductsMinimalAPIWithVaidation\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:23:43.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
